@@ -1,3 +1,13 @@
-# `esbuild` Example
+Solarized repro
+===
 
-Simple `esbuild` example using `perspective-viewer` and plugins.
+```sh
+npm install
+```
+
+### Steps
+
+1. Click on one of the column heads.
+2. Instead of the sort icon, you'll see a grey rectangle
+
+![](./assets/block.png)
