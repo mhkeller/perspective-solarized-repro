@@ -3,6 +3,7 @@ Solarized repro
 
 ```sh
 npm install
+npm start
 ```
 
 ### Steps
